@@ -9,4 +9,4 @@ child_type: docs
 
 # Intermediate
 
-Delve deeper into more **complex** topics
+Delve deeper into more **beatiful complex** topics
