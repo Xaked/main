@@ -1,0 +1,10 @@
+pages-old/
+.dependencies
+accounts/
+assets/
+blueprints.yaml
+blueprints/
+config/
+data/
+plugins/
+screenshot.jpg
