@@ -1,5 +1,7 @@
 ---
 title: sc.xaked.com
+taxonomy:
+  category: docs
 visible: true
 ---
 
