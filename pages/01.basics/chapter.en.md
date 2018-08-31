@@ -4,10 +4,9 @@ taxonomy:
     category: docs
 child_type: docs
 ---
-# First page
 
-## Chapter 1
+### Chapter 1
 
-### Basics
+# Basics
 
 Discover the **basic** principles
