@@ -1,5 +1,5 @@
 ---
-title: Our sites
+title: 'Our sites'
 taxonomy:
     category: docs
 child_type: docs
