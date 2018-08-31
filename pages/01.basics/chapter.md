@@ -7,8 +7,8 @@ child_type: docs
 
 # Chapter 1
 
-## Basics
+### Basics
 
 Discover the **basic** principles
 
->Tesing sync with git 2
+>Tesing sync with git 3
