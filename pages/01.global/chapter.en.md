@@ -1,10 +1,10 @@
 ---
-title: Global
+title: Our sites
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-# Global
+# Our sites
 
 This page will contain global texts
