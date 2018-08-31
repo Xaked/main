@@ -11,4 +11,4 @@ child_type: docs
 
 Discover the **basic** principles
 
->Tesing sync with git 2
+>Tesing sync with git 3
