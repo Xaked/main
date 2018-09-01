@@ -5,8 +5,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter Number
+### 01
 
-# Chapter Title
+# Instructions
 
-Chapter description.
+Here you can find some instructions about some interesting stuff.
