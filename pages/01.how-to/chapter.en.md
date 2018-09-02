@@ -1,5 +1,5 @@
 ---
-title: Instructions
+title: 'How to'
 taxonomy:
     category: docs
 child_type: docs
