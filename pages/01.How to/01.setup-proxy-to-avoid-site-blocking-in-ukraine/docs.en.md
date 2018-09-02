@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-## The first step is to make sure that the provider does not block dns resolve blocked sites
+### The first step is to make sure that the provider does not block dns resolve blocked sites
 
 For example, in windows we can do this by entering this command **nslookup yandex.ru 8.8.8.8**.
 
@@ -15,7 +15,7 @@ We are using google public dns for tesing. If you seeing response like on first 
 If your response looks like this, then you need to use another method.  
 ![DNS resolve ERROR](https://i.imgur.com/MrM9Osf.png)
 
-## If all is good then we need to setup google public dns resolver as default in our system
+### If all is good then we need to setup google public dns resolver as default in our system
 
 For example in windows 10:
 
@@ -23,7 +23,7 @@ For example in windows 10:
 ![2](https://i.imgur.com/NhOxrFG.png)
 ![3](https://i.imgur.com/yqozYhd.png)
 
-## Now setup proxy with automatic pac script
+### Now setup proxy with automatic pac script
 
 In windows 10:
 
