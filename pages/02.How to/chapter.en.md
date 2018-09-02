@@ -7,6 +7,6 @@ child_type: docs
 
 ### 01
 
-# Instructions
+# How to
 
 Here you can find some instructions about some interesting stuff.
