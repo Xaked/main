@@ -43,4 +43,6 @@ Last step is to clear dns resolver cache. Write in console this command **ipconf
 
 Restart your applications or your pc, and try to use blocked websites.
 
->We are using proxy sites provided by Zaborona.help
+---
+
+>>> Proxy servers provided by [Zaborona](https://zaborona.help/)
