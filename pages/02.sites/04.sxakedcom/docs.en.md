@@ -9,9 +9,13 @@ Our shortening service.
 
 >>>>> You can be redirected to our site from s.xaff.ru
 
-You can contact me on social media by following this links:
+You can find me on social media by following this links:
 
->>>>> [Vkontakte](https://s.xaked.com/vk)  [Telegram](https://s.xaked.com/tg)
+>>>>> [Vkontakte](https://s.xaked.com/vk) // [Telegram](https://s.xaked.com/tg) // [Github](https://s.xaked.com/gt) // [Facebook](https://s.xaked.com/fb)
+
+Here you can find some useful links:
+	1. Later
+	2. Later
 
 ---
 
