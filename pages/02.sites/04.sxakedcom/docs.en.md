@@ -14,8 +14,7 @@ You can find me on social media by following this links:
 >>>>> [Vkontakte](https://s.xaked.com/vk) // [Telegram](https://s.xaked.com/tg) // [Github](https://s.xaked.com/gt) // [Facebook](https://s.xaked.com/fb) // [Shikimori](https://s.xaked.com/sk)
 
 Here you can find some useful links:
-	1. Later
-	2. Later
+	1. ...
 
 ---
 
