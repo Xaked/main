@@ -9,4 +9,4 @@ child_type: docs
 
 # Our sites
 
-This page will contain global texts
+This page will contain description about our sites
