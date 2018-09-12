@@ -16,4 +16,4 @@ Here you can find some useful links:
 
 ---
 
->>> Hosting service provided by [bitly.com](https://bitly.com/)
+>>> Hosting service provided by [rebrandly.com](https://rebrandly.com/)
